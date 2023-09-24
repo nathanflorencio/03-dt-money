@@ -39,6 +39,14 @@
       "type": "income",
       "createdAt": "2023-09-24T02:47:50.370Z",
       "id": 5
+    },
+    {
+      "description": "Batata-frita",
+      "price": 65,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-09-24T03:52:06.022Z",
+      "id": 6
     }
   ]
 }
